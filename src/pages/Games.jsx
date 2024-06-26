@@ -50,7 +50,7 @@ const Game = () => {
           <img src="./images/grip-bg.png" alt="grip-bg" />
         </div>
         <div className="flex justify-between items-center pl-4 md:pl-8">
-          <span className='text-left text-xs'>
+          <span className='text-left text-xs md:text-base'>
             <p>**Unreal Conversion Only.</p>
             <p>GRIP is developed by Caged Element </p>
           </span>
