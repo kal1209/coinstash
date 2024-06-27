@@ -13,6 +13,7 @@ function ArrowButton({ title, onClick }) {
 
 ArrowButton.propTypes = {
   onClick: PropTypes.func,
+  title: PropTypes.string
 };
 
 export default ArrowButton;
