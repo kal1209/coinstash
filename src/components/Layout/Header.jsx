@@ -17,6 +17,9 @@ const Header = () => {
           <li>
             <NavLink to="/babylon-toolkit" className={navLinkClass}>babylon Toolkit</NavLink>
           </li>
+          <li>
+            <NavLink to="/buy-stash" className={navLinkClass}>buy stash</NavLink>
+          </li>
         </ul>
       </nav>
       <div className='grid justify-items-center bg-gradient-to-r from-sky-400 via-sky-300 to-sky-400 rounded-xl p-2'>
