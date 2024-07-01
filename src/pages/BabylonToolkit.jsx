@@ -51,18 +51,18 @@ const BabylonToolkit = () => {
                       </p>
                       <div className='flex flex-col gap-4'>
                         <div className='flex gap-3 md:gap-8'>
-                          <img src="./images/nele.png" className='w-[50px] md:w-full' alt="nele" />
+                          <img src="./images/nele.png" className='w-[50px] md:w-[100px]' alt="nele" />
                           <img src="./images/havok.png" className='w-[100px] md:w-full md: min-w-32' alt="havok" />
                         </div>
                         <div className='flex gap-3 md:gap-8'>
-                          <img src="./images/payment.png" className='w-[50px] md:w-full' alt="payment" />
+                          <img src="./images/payment.png" className='w-[50px] md:w-[100px]' alt="payment" />
                           <span className='text-sm md:text-lg'>
                             <p>Direct to Consumer</p>
                             <p>Receive Payments in FIAT or Crypto</p>
                           </span>
                         </div>
                         <div className='flex gap-3  md:gap-8'>
-                          <img src="./images/heart.png" className='w-[50px] md:w-full' alt="heart" />
+                          <img src="./images/heart.png" className='w-[50px] md:w-[100px]' alt="heart" />
                           Overlays for Promotion and Monetization
                         </div>
                       </div>
